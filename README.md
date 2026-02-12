@@ -170,9 +170,9 @@ Your Choice:
 | 🔴 **Red Box** | Unknown person detected |
 | **Percentage** | Match confidence (higher is better) |
 
-![Example](Ronaldo.png)
+<img src="Ronaldo.png" width="500" height="auto" alt="Example">
 
-![Example](Jon-Snow.png)
+<img src="Jon-Snow.png" width="500" height="auto" alt="Example">
 
 **Example Console Output:**
 ```
