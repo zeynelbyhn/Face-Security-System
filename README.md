@@ -170,6 +170,10 @@ Your Choice:
 | 🔴 **Red Box** | Unknown person detected |
 | **Percentage** | Match confidence (higher is better) |
 
+![Example](Ronaldo.png)
+
+![Example](Jon-Snow.png)
+
 **Example Console Output:**
 ```
 📂 Loading database...
