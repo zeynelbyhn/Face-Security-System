@@ -74,7 +74,7 @@ Before running this application, ensure you have:
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/face-security-system.git
+git clone https://github.com/zeynelbyhn/Face-Security-System.git
 cd face-security-system
 ```
 
